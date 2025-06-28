@@ -1,3 +1,7 @@
+examples/*.o
+examples/sample1
+examples/sample2
+examples/sample3
 source/*.ppu
 source/*.o
 source/*.bak
