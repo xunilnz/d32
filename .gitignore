@@ -1,0 +1,5 @@
+source/*.ppu
+source/*.o
+source/*.bak
+source/fp.*
+
